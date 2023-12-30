@@ -175,7 +175,8 @@ ROHINI silver screen is much better in spite of Sound effects and picture qualit
 ```
 
 ## Output:
-![Alt text](<Screenshot 2023-12-30 183245-1.png>)
+![Screenshot 2023-12-30 185753](https://github.com/SAIDARSHINI27072005/places-around-me/assets/147474227/d015f96b-35a4-4be0-8cc5-187fd862b970)
+
 
 ![Alt text](image.png)
 
